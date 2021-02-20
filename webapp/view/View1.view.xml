@@ -6,6 +6,7 @@
 					<content>
 						<Text text="Master"/>
 						<Text text="Branch1"/>
+						<Text text="Branch One added to check merge"/>
 					</content>
 				</Page>
 			</pages>
