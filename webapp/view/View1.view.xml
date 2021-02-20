@@ -4,7 +4,8 @@
 			<pages>
 				<Page id="page" title="{i18n>title}">
 					<content>
-						<Text text="Master One"/>
+						<Text text="Master"/>
+						<Text text="Branch1"/>
 					</content>
 				</Page>
 			</pages>
