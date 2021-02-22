@@ -5,7 +5,7 @@ sap.ui.define([
 
 	return Controller.extend("com.Git.controller.View1", {
 		onInit: function () {
-
+			console.log("Edit from 2nd developer ID");
 		}
 	});
 });
